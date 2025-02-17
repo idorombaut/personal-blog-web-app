@@ -35,7 +35,7 @@ cd personal-blog-web-app
 
 3. **Install Dependencies**
    ```
-   pip install flask
+   pip install Flask
    ```
 
 ### Step 3: Run the Application
